@@ -64,7 +64,7 @@
 	"required" :true
     }  
 	  ,
-    "SESSION_ID":
+    "SESSION_ID":Bmwmd$rPs5B5j8
     {
       "description":"put your session ID, the code you received after pairing code",   
       "value":"",
